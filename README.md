@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Active--last--30--days-Yes-brightgreen" alt="islamMendjel"/>
 </p>
 
-<img align="left" src="https://profile-counter.glitch.me/islem-haddada/count.svg?" />
+<img align="left" src="https://profile-counter.glitch.me/islamMendjel/count.svg?" />
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jYjF2ejV0cTg5d21rNTJtc3lidjF5cGJ3MTU5dG44NDBrcHVxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0EwYGlvQ7STj3wyc/giphy.gif"  />
 
@@ -57,7 +57,3 @@ How old am I? (Updated till the last login date above) **7632 Days**
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=islamMendjel&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<img align="left" src="https://profile-counter.glitch.me/islem-haddada/count.svg?](https://visitcount.itsvg.in/api?id=islamMendjel&icon=4&color=6)](https://visitcount.itsvg.in"  />
