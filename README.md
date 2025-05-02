@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/Active--last--30--days-Yes-brightgreen" alt="islamMendjel"/>
 </p>
 
+<img align="right" src="https://profile-counter.glitch.me/islem-haddada/count.svg?"  />
+
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jYjF2ejV0cTg5d21rNTJtc3lidjF5cGJ3MTU5dG44NDBrcHVxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0EwYGlvQ7STj3wyc/giphy.gif"  />
 
 > [!NOTE]
