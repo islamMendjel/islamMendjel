@@ -8,6 +8,8 @@ Last Login to GitHub: **May 2**
 
 How old am I? (Updated till the last login date above) **7632 Days**
 
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jYjF2ejV0cTg5d21rNTJtc3lidjF5cGJ3MTU5dG44NDBrcHVxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0EwYGlvQ7STj3wyc/giphy.gif"  />
+
 ---
 
 - 🌱 I’m currently learning **AI, php, JavaScript**
@@ -33,5 +35,3 @@ How old am I? (Updated till the last login date above) **7632 Days**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islamMendjel&show_icons=true&locale=en&layout=compact" alt="islamMendjel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamMendjel&show_icons=true&locale=en" alt="islamMendjel" /></p>
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jYjF2ejV0cTg5d21rNTJtc3lidjF5cGJ3MTU5dG44NDBrcHVxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0EwYGlvQ7STj3wyc/giphy.gif"  />
