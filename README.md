@@ -55,3 +55,7 @@ How old am I? (Updated till the last login date above) **7632 Days**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=islamMendjel&icon=4&color=6)](https://visitcount.itsvg.in)
+
+<img align="left" src="https://profile-counter.glitch.me/islem-haddada/count.svg?"  />
+
+<img align="left" src="https://profile-counter.glitch.me/islem-haddada/count.svg?](https://visitcount.itsvg.in/api?id=islamMendjel&icon=4&color=6)](https://visitcount.itsvg.in"  />
