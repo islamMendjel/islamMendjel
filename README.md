@@ -43,4 +43,6 @@ How old am I? (Updated till the last login date above) **7632 Days**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamMendjel&show_icons=true&locale=en" alt="islamMendjel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.demolab.com/?user=islamMendjel&show_icons=true&locale=en" alt="islamMendjel" /></p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=islamMendjel" alt="islamMendjel"/>
+</p>
