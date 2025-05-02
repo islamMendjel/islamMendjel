@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm islam Mendjel</h1>
 <h3 align="center">A 20 Years Old Passionate Student Developer, Gamer And Otaku From Algeria</h3>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Active--last--30--days-Yes-brightgreen" alt="islamMendjel"/>
+</p>
+
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jYjF2ejV0cTg5d21rNTJtc3lidjF5cGJ3MTU5dG44NDBrcHVxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0EwYGlvQ7STj3wyc/giphy.gif"  />
 
 > [!NOTE]
