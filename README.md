@@ -14,9 +14,11 @@ How old am I? (Updated till the last login date above) **7632 Days**
 
 - 🌱 I’m currently learning **AI, php, JavaScript**
 
+- 🎮 I’m currently playing **God Of War Ragnarok, Marvel Spider Man, Resident Evil 4 Remake** on **PS4**
+
 - 👨‍💻 All of my projects are available here
 
-- 💬 Ask me about **HTML, Php, Java, C, Python, Arduino, Networks, Games, MIPS-3000, Prolog, Matlab**
+- 💬 Ask me about **HTML, Php, Java, C, Python, Arduino, Networks, MIPS-3000, Prolog, Matlab, Games**
 
 - 📫 How to reach me **gamerislam21@gmail.com**
 
