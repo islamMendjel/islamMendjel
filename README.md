@@ -54,8 +54,5 @@ How old am I? (Updated till the last login date above) **7632 Days**
 ![](https://github-contributor-stats.vercel.app/api?username=islamMendjel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=islamMendjel&icon=4&color=6)](https://visitcount.itsvg.in)
-
-<img align="left" src="https://profile-counter.glitch.me/islem-haddada/count.svg?"  />
 
 <img align="left" src="https://profile-counter.glitch.me/islem-haddada/count.svg?](https://visitcount.itsvg.in/api?id=islamMendjel&icon=4&color=6)](https://visitcount.itsvg.in"  />
