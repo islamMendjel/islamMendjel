@@ -20,7 +20,7 @@ How old am I? (Updated till the last login date above) **7632 Days**
 
 - 📫 How to reach me **gamerislam21@gmail.com**
 
-- ⚡ Fun fact: I prefer quality over quantity
+- ⚡ Fun fact: Until Now, PS4 is Better Than PS5
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
