@@ -21,7 +21,7 @@ How old am I? (Updated till the last login date above) **7633 Days**
 
 ---
 
-- 🌱 I’m currently learning **AI, php, JavaScript**
+- 🌱 I’m currently learning **AI, Web Developement**
 
 - 🎮 I’m currently playing **God Of War Ragnarok, Marvel Spider Man, Resident Evil 4 Remake** on **PS4**
 
