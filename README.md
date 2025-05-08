@@ -54,9 +54,5 @@ How old am I? (Updated till the last login date above) **7638 Days**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamMendjel&show_icons=true&locale=en" alt="islamMendjel" /></p>
 
-<p align="left">
-  &nbsp;<img src="https://streak-stats.demolab.com/?user=islamMendjel" alt="islamMendjel"/>
-</p>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=islamMendjel&limit=5&theme=dark&combine_all_yearly_contributions=true)
