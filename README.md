@@ -12,7 +12,7 @@
 
 <img align="left" src="https://profile-counter.glitch.me/islamMendjel/count.svg?" />
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jYjF2ejV0cTg5d21rNTJtc3lidjF5cGJ3MTU5dG44NDBrcHVxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0EwYGlvQ7STj3wyc/giphy.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jYjF2ejV0cTFrNmFBpzPfDvDX8m4i7KdjsoNxzK2E62arcHVxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0EwYGlvQ7STj3wyc/giphy.gif"  />
 
 <br>
 <br>
@@ -33,6 +33,8 @@ How old am I? (Updated till the last login date above) **7639 Days**
 - 💬 Ask me about **HTML, Php, Java, C, Python, Arduino, Networks, Prolog, Matlab, MIPS-3000**
 
 - 📫 How to reach me **gamerislam21@gmail.com**
+
+- ⚡ Fun fact: 2030 is closer than 2020
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
