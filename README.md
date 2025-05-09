@@ -34,7 +34,6 @@ How old am I? (Updated till the last login date above) **7639 Days**
 
 - 📫 How to reach me **gamerislam21@gmail.com**
 
-- ⚡ Fun fact: 2030 is closer than 2020
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
