@@ -30,7 +30,7 @@ How old am I? (Updated till the last login date above) **7640 Days**
 
 - 👨‍💻 All of my projects are available here
 
-- 💬 Ask me about **HTML, Php, Java, C, Python, Arduino, Networks, Prolog, Matlab, MIPS-3000**
+- 💬 Ask me about **HTML, CSS, Php, Java, C, Python, Arduino, Networks, Prolog, Matlab, MIPS-3000**
 
 - 📫 How to reach me **gamerislam21@gmail.com**
 
