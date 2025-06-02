@@ -58,11 +58,5 @@ How old am I? (Updated till the last login date above) **7663 Days and some Hour
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=islamMendjel&layout=compact&theme=radical&hide_border=true)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=islamMendjel&theme=radical&hide_border=true)
 
-</div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islamMendjel&show_icons=true&locale=en&layout=compact" alt="islamMendjel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamMendjel&show_icons=true&locale=en" alt="islamMendjel" /></p>
-
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=islamMendjel&limit=5&theme=dark&combine_all_yearly_contributions=true)
