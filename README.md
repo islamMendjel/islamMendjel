@@ -50,6 +50,16 @@ How old am I? (Updated till the last login date above) **7663 Days and some Hour
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=islamMendjel&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
+## 📊 GitHub Stats  
+
+<div align="center">
+  
+![Skylok-24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=islamMendjel&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=islamMendjel&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=islamMendjel&theme=radical&hide_border=true)
+
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islamMendjel&show_icons=true&locale=en&layout=compact" alt="islamMendjel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamMendjel&show_icons=true&locale=en" alt="islamMendjel" /></p>
