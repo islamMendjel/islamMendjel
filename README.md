@@ -14,6 +14,13 @@
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jYjF2ejV0cTFrNmFBpzPfDvDX8m4i7KdjsoNxzK2E62arcHVxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0EwYGlvQ7STj3wyc/giphy.gif"  />
 
+<div align="right">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokman-abdelmonam-brahmia-18732a329/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brahmialokman16@gmail.com)
+
+</div>
+
 <br>
 <br>
 
