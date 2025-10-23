@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
+
 <h1 align="center">Hi👋</h1>
 
 <p align='center'>
