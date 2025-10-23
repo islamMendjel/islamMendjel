@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Active--last--30--days-Yes-brightgreen" alt="islamMendjel"/>
 </p>
 
-<p align="right">
+<p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=islamMendjel" alt="visitors"/>
 </p>
 
