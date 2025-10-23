@@ -108,4 +108,7 @@ How old am I? (Updated till the last login date above) **7806 Days and some Hour
   </tr>
 </table>
 
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ![](https://github.com/idimetrix/BEPb/blob/main/assets/Bottom_down.svg)
