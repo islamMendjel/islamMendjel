@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Active--last--30--days-Yes-brightgreen" alt="islamMendjel"/>
 </p>
 
-<img align="left" src="https://profile-counter.glitch.me/islamMendjel/count.svg?" />
-
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jYjF2ejV0cTFrNmFBpzPfDvDX8m4i7KdjsoNxzK2E62arcHVxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0EwYGlvQ7STj3wyc/giphy.gif"  />
 
 <br>
