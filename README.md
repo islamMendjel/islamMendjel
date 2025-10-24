@@ -3,7 +3,7 @@
 <h1 align="center">Hi👋</h1>
 
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Islam+MENDJEL;Student+Developer;Computer+Science+student;Its+All+Good,+Man">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Islam+MENDJEL;Student+Developer;Computer+Science+Student;Its+All+Good,+Man">
 </p>
 
 <h3 align="center">A 21 Years Old Student, Developer, Gamer From Algeria</h3>
