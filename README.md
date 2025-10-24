@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
-<h1 align="center">Hi👋</h1>
+<h1 align="center">Hola amigos👋</h1>
 
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Islam+MENDJEL;Student+Developer;Computer+Science+Student;Its+All+Good,+Man">
