@@ -23,9 +23,9 @@
 > [!NOTE]
 > The following days are updated manually by islam Mendjel every day!
 
-Last Login to GitHub: **October 24**
+Last Login to GitHub: **November 06**
 
-How old am I? (Updated till the last login date above) **7807 Days and some Hours**
+How old am I? (Updated till the last login date above) **7820 Days and some Hours**
 
 <div align="center">
 
@@ -40,7 +40,7 @@ How old am I? (Updated till the last login date above) **7807 Days and some Hour
 
 - 👨‍💻 All of my projects are available here
 
-- 💬 Ask me about **HTML, CSS, Php, Java, C, Python, Arduino, Networks, Prolog, Matlab, MIPS-3000**
+- 💬 Ask me about **HTML, CSS, Js, Php, Django, Flask, Java, C, Python, Arduino, Networks, Prolog, Matlab, Mars MIPS-3000**
 
 - 📫 How to reach me **gamerislam21@gmail.com**
 
