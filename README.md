@@ -63,7 +63,7 @@ How old am I? (Updated till the last login date above) **7820 Days and some Hour
 <h3 align="left">Languages and Tools</h3>
 
 <div align="center">
-  <img src="https://simpleicons.org/icons/arduino.svg" height="30" alt="arduino" />
+  <img src="https://icon.icepanel.io/Technology/svg/Arduino.svg" height="30" alt="arduino" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian" />
