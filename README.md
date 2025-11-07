@@ -70,6 +70,7 @@ How old am I? (Updated till the last login date above) **7820 Days and some Hour
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/JSON.png" height="30" alt="json" />
   <img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" height="30" alt="laravel" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/LaTeX.png" height="30" alt="latex" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/TeX.png" height="30" alt="tex" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Lua.png" height="30" alt="lua" />
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" height="30" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy" />
@@ -93,15 +94,16 @@ How old am I? (Updated till the last login date above) **7820 Days and some Hour
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" height="30" alt="matlab" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu" />
   <img src="https://icon.icepanel.io/Technology/svg/FileZilla.svg" height="30" alt="filezila" />
-  
   <img src="https://icon.icepanel.io/Technology/svg/Dart.svg" height="30" alt="dart" />
   <img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" height="30" alt="flutter" />
   <img src="https://icon.icepanel.io/Technology/svg/GCC.svg" height="30" alt="gcc" />
-  <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
-  <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
-  <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
-  <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
-  
+  <img src="https://icon.icepanel.io/Technology/svg/NPM.svg" height="30" alt="npm" />
+  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="30" alt="postman" />
+  <img src="https://icon.icepanel.io/Technology/svg/Stack-Overflow.svg" height="30" alt="stackoverflow" />
+  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="30" alt="tailwindcss" />
+  <img src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg" height="30" alt="uml" />
+  <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" height="30" alt="vscode" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/WordPress.png" height="30" alt="wordpress" />
   <img src="https://img.icons8.com/?size=100&id=R5sTZvq3fTDW&format=png&color=000000" height="30" alt="war thunder" />
 </div>
 
