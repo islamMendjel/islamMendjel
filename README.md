@@ -177,7 +177,9 @@ Last Login to GitHub: **November 07 2025**
 -->
 
 ## 🔝 Top Contributed Repo
+<p align="center">
 ![](https://github-contributor-stats.vercel.app/api?username=islamMendjel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</p>
 
 <!--
 
