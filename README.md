@@ -84,7 +84,7 @@ How old am I? (Updated till the last login date above) **7820 Days and some Hour
   <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="30" alt="canva" />
   <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original-wordmark.svg" height="30" alt="prolog" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original-wordmark.svg" height="40" alt="prolog" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" height="30" alt="matlab" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu" />
   <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
