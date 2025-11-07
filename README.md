@@ -65,25 +65,29 @@ How old am I? (Updated till the last login date above) **7820 Days and some Hour
 <div align="center">
   <img src="https://icon.icepanel.io/Technology/svg/Arduino.svg" height="30" alt="arduino" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="30" alt="django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="java" />
+  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" height="30" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch" />
+  <img src="https://cdn.simpleicons.org/django/092E20" height="30" alt="django" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" height="30" alt="flask" />
+  <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" height="30" alt="html" />
+  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" height="30" alt="css" />
+  <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" height="30" alt="php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" height="30" alt="powershell" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github" />
+  <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" height="30" alt="mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter" />
   <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
-  <img src="https://cdn.svgporn.com/logos/archlinux.svg" height="30" alt="archlinux" />
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="30" alt="canva" />
+  <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
+  <img src="[https://cdn.simpleicons.org/vim/019733](https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original-wordmark.svg)" height="30" alt="prolog" />
+  <img src="[https://cdn.simpleicons.org/vim/019733](https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg)" height="30" alt="matlab" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu" />
+  <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
   <img src="https://img.icons8.com/?size=100&id=R5sTZvq3fTDW&format=png&color=000000" height="30" alt="war thunder" />
 </div>
 
