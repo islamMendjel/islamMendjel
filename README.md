@@ -10,9 +10,10 @@
 
 <a><img src="https://raw.githubusercontent.com/idimetrix/BEPb/refs/heads/main/src/header_.png"></a>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Active--last--30--days-Yes-brightgreen" alt="islamMendjel"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=islamMendjel" alt="visitors"/>
+  <a href="https://github.com/islamMendjel?tab=followers"><img src="https://img.shields.io/github/followers/islamMendjel?label=Followers&style=flat&logo=github&color=0e75b6" alt="GitHub Followers"/></a>
 </p>
 
 <!--
@@ -93,16 +94,16 @@ How old am I? (Updated till the last login date above) **7820 Days and some Hour
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu" />
+  <img src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg" height="30" alt="uml" />
   <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" height="30" alt="mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite" />
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="30" alt="canva" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original-wordmark.svg" height="30" alt="prolog" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" height="30" alt="matlab" />
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="30" alt="canva" />
   <img src="https://icon.icepanel.io/Technology/svg/FileZilla.svg" height="30" alt="filezila" />
+  <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" height="30" alt="vscode" />
   <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="30" alt="postman" />
   <img src="https://icon.icepanel.io/Technology/svg/Stack-Overflow.svg" height="30" alt="stackoverflow" />
-  <img src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg" height="30" alt="uml" />
-  <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" height="30" alt="vscode" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/WordPress.png" height="30" alt="wordpress" />
   <img src="https://img.icons8.com/?size=100&id=R5sTZvq3fTDW&format=png&color=000000" height="30" alt="war thunder" />
 </div>
