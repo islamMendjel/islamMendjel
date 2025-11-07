@@ -29,14 +29,12 @@
 <br>
 -->
 
-<div align="center">
 > [!NOTE]
 > The following days are updated manually by Me every day!
 
-Last Login to GitHub: **November 06**
+Last Login to GitHub: **November 07**
 
-How old am I? (Updated till the last login date above) **7820 Days and some Hours**
-</div>
+How old am I? (Updated till the last login date above) **7821 Days and some Hours**
 
 <div align="center">
 
