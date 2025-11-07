@@ -79,11 +79,11 @@ Last Login to GitHub: **November 07 2025**
   <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" height="30" alt="neovim" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github" />
+  <img src="https://www.svgrepo.com/show/450156/github.svg" height="30" alt="github" />
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" height="30" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy" />
   <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" height="30" alt="matplotlib" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="30" alt="django" />
+  <img src="https://www.svgrepo.com/show/373554/django.svg" height="30" alt="django" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" height="30" alt="flask" />
   <img src="https://icon.icepanel.io/Technology/svg/Dart.svg" height="30" alt="dart" />
   <img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" height="30" alt="flutter" />
@@ -98,7 +98,7 @@ Last Login to GitHub: **November 07 2025**
   <img src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg" height="30" alt="uml" />
   <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" height="30" alt="mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original-wordmark.svg" height="30" alt="prolog" />
+  <img src="https://www.svgrepo.com/show/374005/prolog.svg" height="30" alt="prolog" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" height="30" alt="matlab" />
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="30" alt="canva" />
   <img src="https://icon.icepanel.io/Technology/svg/FileZilla.svg" height="30" alt="filezila" />
@@ -106,6 +106,10 @@ Last Login to GitHub: **November 07 2025**
   <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="30" alt="postman" />
   <img src="https://icon.icepanel.io/Technology/svg/Stack-Overflow.svg" height="30" alt="stackoverflow" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/WordPress.png" height="30" alt="wordpress" />
+  <img src="https://www.svgrepo.com/show/452087/playstation.svg" height="30" alt="playstation" />
+  <img src="https://www.svgrepo.com/show/303421/xbox-one-2-logo.svg" height="30" alt="xboxone" />
+  <img src="https://brave.com/static-assets/images/brave-nightly-badge.png" height="30" alt="brave" />
+  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/993090/84ba6dc3a83e3dd4c0739985edbaf2e4051f57c4/header.jpg?t=1762179586" height="30" alt="losslessscaling" />
   <img src="https://img.icons8.com/?size=100&id=R5sTZvq3fTDW&format=png&color=000000" height="30" alt="war thunder" />
 </div>
 
