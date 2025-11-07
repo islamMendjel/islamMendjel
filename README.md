@@ -30,11 +30,9 @@
 -->
 
 > [!NOTE]
-> The following days are updated manually by Me every day!
+> The "Last Login" date below is updated manually by Me every day!
 
-Last Login to GitHub: **November 07**
-
-How old am I? (Updated till the last login date above) **7821 Days and some Hours**
+Last Login to GitHub: **November 07 2025**
 
 <div align="center">
 
@@ -45,15 +43,15 @@ How old am I? (Updated till the last login date above) **7821 Days and some Hour
 
 ---
 
-- 🌱 I’m currently learning **AI, Web Developement**
+- 🌱 I’m currently learning **AI**
 
-- 👨‍💻 All of my projects are available here
+- 👨‍💻 Literally all of my projects are available here
 
-- 💬 Ask me about **HTML, CSS, Js, Php, Django, Flask, Java, C, Python, Arduino, Networks, Prolog, Matlab, Mars MIPS-3000**
+- 💬 Ask me about **Everything**
 
 - 📫 How to reach me **gamerislam21@gmail.com**
 
-- ⚡ Fun fact: 2030 is closer than 2020
+- ⚡ Fun fact: It’s all 0’s and 1’s
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
@@ -74,9 +72,9 @@ How old am I? (Updated till the last login date above) **7821 Days and some Hour
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/LaTeX.png" height="30" alt="latex" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/TeX.png" height="30" alt="tex" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Lua.png" height="30" alt="lua" />
-    <img src="https://icon.icepanel.io/Technology/svg/GCC.svg" height="30" alt="gcc" />
+  <img src="https://icon.icepanel.io/Technology/svg/GCC.svg" height="30" alt="gcc" />
   <img src="https://icon.icepanel.io/Technology/svg/NPM.svg" height="30" alt="npm" />
-    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" height="30" alt="powershell" />
   <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git" />
@@ -161,14 +159,25 @@ How old am I? (Updated till the last login date above) **7821 Days and some Hour
 
 ## 📊 GitHub Stats  
 
+<h3 align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islamMendjel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=islamMendjel&show_icons=true&locale=en&theme=tokyonight" alt="Islam Mendjel's GitHub stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islamMendjel&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<!--
 <div align="center">
-  
-![Skylok-24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=islamMendjel&show_icons=true&theme=radical&hide_border=true)  
+
+![islamMendjel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=islamMendjel&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=islamMendjel&layout=compact&theme=radical&hide_border=true)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=islamMendjel&theme=radical&hide_border=true)
+-->
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=islamMendjel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!--
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Friends
 
@@ -206,6 +215,7 @@ How old am I? (Updated till the last login date above) **7821 Days and some Hour
     </td>
   </tr>
 </table>
+-->
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
