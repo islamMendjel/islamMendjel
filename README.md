@@ -6,7 +6,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=My+Name+is+Islam+Mendjel;Student+Developer;Computer+Science+Student;Leave+It+To+God">
 </p>
 
+<!--
 <h3 align="center">A 21 Years Old Student, Developer, Gamer From Algeria</h3>
+-->
 
 <a><img src="https://raw.githubusercontent.com/idimetrix/BEPb/refs/heads/main/src/header_.png"></a>
 
@@ -20,19 +22,21 @@
       saul goodman gif
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jYjF2ejV0cTFrNmFBpzPfDvDX8m4i7KdjsoNxzK2E62arcHVxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0EwYGlvQ7STj3wyc/giphy.gif"  />
 
--->
-
+      cat gif rm rf
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTQh1Y1JjA3yW21RewAhxjanvaUoSkVZF3PueDhwODlzMjJtOHlwYWYxMjl2amV6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCkbgKLdLWq3OCV8YM/giphy.gif"  />
 
 <br>
 <br>
+-->
 
+<div align="center">
 > [!NOTE]
-> The following days are updated manually by islam Mendjel every day!
+> The following days are updated manually by Me every day!
 
 Last Login to GitHub: **November 06**
 
 How old am I? (Updated till the last login date above) **7820 Days and some Hours**
+</div>
 
 <div align="center">
 
