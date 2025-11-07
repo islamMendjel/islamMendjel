@@ -177,7 +177,14 @@ Last Login to GitHub: **November 07 2025**
 -->
 
 ## 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=islamMendjel&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
+
+<!--
 ![](https://github-contributor-stats.vercel.app/api?username=islamMendjel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+-->
 
 <!--
 
@@ -220,6 +227,12 @@ Last Login to GitHub: **November 07 2025**
 -->
 
 ## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+<!--
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-->
 
 ![](https://github.com/idimetrix/BEPb/blob/main/assets/Bottom_down.svg)
