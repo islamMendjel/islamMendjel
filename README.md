@@ -32,7 +32,7 @@
 > [!NOTE]
 > The "Last Login" date below is updated manually by Me every day!
 
-Last Login to GitHub: **November 07 2025**
+Last Login to GitHub: **November 08 2025**
 
 <div align="center">
 
@@ -65,9 +65,11 @@ Last Login to GitHub: **November 07 2025**
 
 <div align="center">
   <img src="https://icon.icepanel.io/Technology/svg/Arduino.svg" height="30" alt="arduino" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c" />
+
+  <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="30" alt="c" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="java" />
   <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="30" alt="javascript" />
+
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/JSON.png" height="30" alt="json" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/LaTeX.png" height="30" alt="latex" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/TeX.png" height="30" alt="tex" />
@@ -78,36 +80,60 @@ Last Login to GitHub: **November 07 2025**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" height="30" alt="powershell" />
   <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" height="30" alt="neovim" />
+
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git" />
   <img src="https://www.svgrepo.com/show/450156/github.svg" height="30" alt="github" />
+
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" height="30" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy" />
   <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" height="30" alt="matplotlib" />
   <img src="https://www.svgrepo.com/show/373554/django.svg" height="30" alt="django" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" height="30" alt="flask" />
+
   <img src="https://icon.icepanel.io/Technology/svg/Dart.svg" height="30" alt="dart" />
   <img src="https://icon.icepanel.io/Technology/svg/Flutter.svg" height="30" alt="flutter" />
+
   <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" height="30" alt="html" />
   <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" height="30" alt="css" />
   <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="30" alt="tailwindcss" />
   <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" height="30" alt="php" />
   <img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" height="30" alt="laravel" />
+  <img src="https://icon.icepanel.io/Technology/svg/React.svg" height="30" alt="react" />
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="30" alt="framermotion" />
+  <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" height="30" alt="axios" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu" />
+
   <img src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg" height="30" alt="uml" />
+
   <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" height="30" alt="mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite" />
+  <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" height="30" alt="postgresql" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLAlchemy.png" height="30" alt="sqlalchemy" />
+  <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" height="30" alt="axios" />
+
   <img src="https://www.svgrepo.com/show/374005/prolog.svg" height="30" alt="prolog" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" height="30" alt="matlab" />
+
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="30" alt="canva" />
+
   <img src="https://icon.icepanel.io/Technology/svg/FileZilla.svg" height="30" alt="filezila" />
   <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" height="30" alt="vscode" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png" height="30" alt="androidstudio" />
   <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" height="30" alt="postman" />
   <img src="https://icon.icepanel.io/Technology/svg/Stack-Overflow.svg" height="30" alt="stackoverflow" />
+  <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" height="30" alt="redis" />
+  <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="30" alt="swagger" />
+  <img src="https://icon.icepanel.io/Technology/svg/Vite.svg" height="30" alt="vite" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Gemini_icon_2025.svg" height="30" alt="googlegemini" />
+  
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/WordPress.png" height="30" alt="wordpress" />
+
   <img src="https://www.svgrepo.com/show/452087/playstation.svg" height="30" alt="playstation" />
   <img src="https://www.svgrepo.com/show/303421/xbox-one-2-logo.svg" height="30" alt="xboxone" />
+
   <img src="https://brave.com/static-assets/images/brave-nightly-badge.png" height="30" alt="brave" />
   <!--
   <img src="https://img.icons8.com/?size=100&id=R5sTZvq3fTDW&format=png&color=000000" height="30" alt="war thunder" />
