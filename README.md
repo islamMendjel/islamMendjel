@@ -112,7 +112,6 @@ Last Login to GitHub: **November 09 2025**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite" />
   <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" height="30" alt="postgresql" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/SQLAlchemy.png" height="30" alt="sqlalchemy" />
-  <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" height="30" alt="axios" />
 
   <img src="https://www.svgrepo.com/show/374005/prolog.svg" height="30" alt="prolog" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" height="30" alt="matlab" />
