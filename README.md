@@ -199,10 +199,15 @@ Last Login to GitHub: **November 10 2025**
   -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=islamMendjel&theme=tokyonight" alt="Top Languages" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=islamMendjel&show_icons=true&locale=en&theme=tokyonight" alt="Islam Mendjel's GitHub stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islamMendjel&theme=tokyonight" alt="GitHub Streak" />
 <!--  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=islamMendjel&theme=tokyonight" alt="GitHub Streak" />
 -->
+</p>
+
+## ⬆️ My Streak
+<h3 align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islamMendjel&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <!--
@@ -263,13 +268,14 @@ Last Login to GitHub: **November 10 2025**
 </table>
 -->
 
+## 📊 Diagram 
+[![IslamMendjel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=islamMendjel&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
-
-[![IslamMendjel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=islamMendjel&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!--
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 -->
