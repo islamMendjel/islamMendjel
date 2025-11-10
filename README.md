@@ -189,9 +189,7 @@ Last Login to GitHub: **November 10 2025**
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
 ![](https://github-profile-trophy.vercel.app/?username=islamMendjel&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-</p>
 
 ## 📊 GitHub Stats  
 
