@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
-<h1 align="center">  **<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>** </h1>
+**<h1 align="center">  <img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/> </h1>**
 
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=My+Name+is+Islam+Mendjel;Student+Developer;Computer+Science+Student;Leave+It+To+God">
@@ -188,7 +188,7 @@ Last Login to GitHub: **November 10 2025**
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=islamMendjel&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=islamMendjel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats  
 
@@ -216,7 +216,7 @@ Last Login to GitHub: **November 10 2025**
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=islamMendjel&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=islamMendjel&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
 <!--
@@ -265,7 +265,7 @@ Last Login to GitHub: **November 10 2025**
 
 ## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 [![islamMendjel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=islamMendjel&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
