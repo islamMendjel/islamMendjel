@@ -268,7 +268,7 @@ Last Login to GitHub: **November 10 2025**
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
-[![islamMendjel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=islamMendjel&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![IslamMendjel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=islamMendjel&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
