@@ -63,7 +63,7 @@ Last Login to GitHub: **November 10 2025**
 
 <h3 align="left">Languages and Tools</h3>
 
-<div align="center">
+<div> <!-- align="center" -->
   <img src="https://icon.icepanel.io/Technology/svg/Arduino.svg" height="30" alt="arduino" />
 
   <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="30" alt="c" />
@@ -188,7 +188,10 @@ Last Login to GitHub: **November 10 2025**
 </p>
 
 ## 🏆 GitHub Trophies
+
+<p align="center">
 ![](https://github-profile-trophy.vercel.app/?username=islamMendjel&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+</p>
 
 ## 📊 GitHub Stats  
 
