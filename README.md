@@ -199,7 +199,7 @@ Last Login to GitHub: **November 10 2025**
   -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=islamMendjel&theme=tokyonight" alt="Top Languages" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=islamMendjel&show_icons=true&locale=en&theme=tokyonight" alt="Islam Mendjel's GitHub stats" /><br/>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=islamMendjel&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=tokyonight&date_format=[Y.]n.j)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islamMendjel&theme=tokyonight" alt="GitHub Streak" />
 <!--  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=islamMendjel&theme=tokyonight" alt="GitHub Streak" />
 -->
