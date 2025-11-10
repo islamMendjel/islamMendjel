@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
-<h1 align="center">Hi👋</h1>
+<h1 align="center">  **<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>** </h1>
 
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=My+Name+is+Islam+Mendjel;Student+Developer;Computer+Science+Student;Leave+It+To+God">
@@ -194,8 +194,12 @@ Last Login to GitHub: **November 10 2025**
 
 <h3 align="center">
 <p align="center">
+  <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islamMendjel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /><br/>
+  -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=islamMendjel&theme=tokyonight" alt="Top Languages" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=islamMendjel&show_icons=true&locale=en&theme=tokyonight" alt="Islam Mendjel's GitHub stats" /><br/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=islamMendjel&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=tokyonight&date_format=[Y.]n.j)](https://git.io/streak-stats)
 <!--  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=islamMendjel&theme=tokyonight" alt="GitHub Streak" />
 -->
@@ -263,6 +267,8 @@ Last Login to GitHub: **November 10 2025**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
+
+[![islamMendjel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=islamMendjel&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
