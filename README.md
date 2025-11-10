@@ -189,7 +189,7 @@ Last Login to GitHub: **November 10 2025**
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=islamMendjel&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=islamMendjel&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📊 GitHub Stats  
 
@@ -198,7 +198,10 @@ Last Login to GitHub: **November 10 2025**
   <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islamMendjel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /><br/>
   -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamMendjel&theme=dark&layout=compact&hide=CMake,Jupyter%20Notebook&langs_count=10&exclude_repo=d-commerce-univ" alt="Top Languages" />
+  <!--
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=islamMendjel&theme=tokyonight" alt="Top Languages" /><br/>
+  -->
   <img src="https://github-readme-stats.vercel.app/api?username=islamMendjel&show_icons=true&locale=en&theme=tokyonight" alt="Islam Mendjel's GitHub stats" /><br/>
 <!--  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=islamMendjel&theme=tokyonight" alt="GitHub Streak" />
