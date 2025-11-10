@@ -198,7 +198,7 @@ Last Login to GitHub: **November 10 2025**
   <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islamMendjel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /><br/>
   -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamMendjel&theme=dark&layout=compact&hide=CMake,Jupyter%20Notebook&langs_count=10&exclude_repo=d-commerce-univ" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamMendjel&theme=tokyonight&layout=compact&hide=CMake,Jupyter%20Notebook&langs_count=10&exclude_repo=d-commerce-univ" alt="Top Languages" /><br/>
   <!--
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=islamMendjel&theme=tokyonight" alt="Top Languages" /><br/>
   -->
