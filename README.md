@@ -85,6 +85,7 @@ Last Login to GitHub: **November 23 2025**
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Lua.png" height="30" alt="lua" />
   <img src="https://icon.icepanel.io/Technology/svg/GCC.svg" height="30" alt="gcc" />
   <img src="https://icon.icepanel.io/Technology/svg/NPM.svg" height="30" alt="npm" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="30" alt="nodejs" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" height="30" alt="powershell" />
   <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
