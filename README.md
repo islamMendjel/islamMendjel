@@ -67,7 +67,15 @@ Last Login to GitHub: **November 23 2025**
   <img src="https://icon.icepanel.io/Technology/svg/Arduino.svg" height="30" alt="arduino" />
 
   <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="30" alt="c" />
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" height="30" alt="c++" />
+  <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" height="30" alt="c#" />
+  
   <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" height="30" alt="go" />
+  
+  <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-vertical.svg" height="30" alt="ruby" />
+  
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-vertical.svg" height="30" alt="rust" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="java" />
   <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="30" alt="javascript" />
 
