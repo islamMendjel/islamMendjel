@@ -100,6 +100,12 @@ Last Login to GitHub: **November 23 2025**
   <img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" height="30" alt="laravel" />
   <img src="https://icon.icepanel.io/Technology/svg/React.svg" height="30" alt="react" />
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="30" alt="angular" />
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" height="30" alt="vuejs" />
+  <img src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" height="30" alt="svelte" />
+  <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-icon.svg" height="30" alt="parceljs" />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" height="30" alt="nextjs" />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="30" alt="typescript" />
+  
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="30" alt="framermotion" />
   <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" height="30" alt="axios" />
 
