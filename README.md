@@ -67,6 +67,7 @@ Last Login to GitHub: **November 23 2025**
   <img src="https://icon.icepanel.io/Technology/svg/Arduino.svg" height="30" alt="arduino" />
 
   <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="30" alt="c" />
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" height="30" alt="go" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="java" />
   <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="30" alt="javascript" />
 
