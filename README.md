@@ -141,6 +141,7 @@ Last Login to GitHub: **November 23 2025**
 
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" height="30" alt="canva" />
 
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" height="30" alt="docker" />
   <img src="https://icon.icepanel.io/Technology/svg/FileZilla.svg" height="30" alt="filezila" />
   <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" height="30" alt="vscode" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Android-Studio.png" height="30" alt="androidstudio" />
