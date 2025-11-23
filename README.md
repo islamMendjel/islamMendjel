@@ -90,6 +90,7 @@ Last Login to GitHub: **November 23 2025**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" height="30" alt="powershell" />
   <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" height="30" alt="neovim" />
+  <img src="https://www.vectorlogo.zone/logos/nano/nano-icon.svg" height="30" alt="nano" />
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git" />
   <img src="https://www.svgrepo.com/show/450156/github.svg" height="30" alt="github" />
