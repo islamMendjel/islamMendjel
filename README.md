@@ -32,7 +32,7 @@
 > [!NOTE]
 > The "Last Login" date below is updated manually by Me every day!
 
-Last Login to GitHub: **November 22 2025**
+Last Login to GitHub: **November 23 2025**
 
 <div align="center">
 
@@ -127,19 +127,11 @@ Last Login to GitHub: **November 22 2025**
   <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" height="30" alt="redis" />
   <img src="https://icon.icepanel.io/Technology/svg/Swagger.svg" height="30" alt="swagger" />
   <img src="https://icon.icepanel.io/Technology/svg/Vite.svg" height="30" alt="vite" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Gemini_icon_2025.svg" height="30" alt="googlegemini" />
-  
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/WordPress.png" height="30" alt="wordpress" />
 
-  <img src="https://www.svgrepo.com/show/452087/playstation.svg" height="30" alt="playstation" />
-  <img src="https://www.svgrepo.com/show/303421/xbox-one-2-logo.svg" height="30" alt="xboxone" />
-
-  <img src="https://brave.com/static-assets/images/brave-nightly-badge.png" height="30" alt="brave" />
   <!--
   <img src="https://img.icons8.com/?size=100&id=R5sTZvq3fTDW&format=png&color=000000" height="30" alt="war thunder" />
   -->
-  <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/993090/84ba6dc3a83e3dd4c0739985edbaf2e4051f57c4/header.jpg?t=1762179586" height="30" alt="losslessscaling" />
-</div>
 
 
 
