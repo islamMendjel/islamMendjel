@@ -121,7 +121,9 @@ Last Login to GitHub: **November 23 2025**
   
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="30" alt="framermotion" />
   <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" height="30" alt="axios" />
-
+  
+  <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" height="30" alt="arch" />
+  <img src="https://www.svgrepo.com/show/303223/microsoft-windows-22-logo.svg" height="30" alt="windows" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu" />
