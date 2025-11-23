@@ -92,6 +92,7 @@ Last Login to GitHub: **November 23 2025**
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git" />
   <img src="https://www.svgrepo.com/show/450156/github.svg" height="30" alt="github" />
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" height="30" alt="gitlab" />
 
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" height="30" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy" />
@@ -105,8 +106,10 @@ Last Login to GitHub: **November 23 2025**
   <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" height="30" alt="html" />
   <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" height="30" alt="css" />
   <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" height="30" alt="tailwindcss" />
+  
   <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" height="30" alt="php" />
   <img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" height="30" alt="laravel" />
+  
   <img src="https://icon.icepanel.io/Technology/svg/React.svg" height="30" alt="react" />
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="30" alt="angular" />
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" height="30" alt="vuejs" />
