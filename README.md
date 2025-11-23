@@ -99,6 +99,7 @@ Last Login to GitHub: **November 23 2025**
   <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" height="30" alt="php" />
   <img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" height="30" alt="laravel" />
   <img src="https://icon.icepanel.io/Technology/svg/React.svg" height="30" alt="react" />
+  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="30" alt="angular" />
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="30" alt="framermotion" />
   <img src="https://icon.icepanel.io/Technology/svg/Azios.svg" height="30" alt="axios" />
 
