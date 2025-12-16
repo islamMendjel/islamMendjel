@@ -47,7 +47,7 @@ Last Login to GitHub: **December 16 2025**
 
 - 👨‍💻 Literally all of my projects are available here
 
-- 💬 Ask me about **Everything**
+- 💬 Ask me about **What you want**
 
 - 📫 How to reach me **gamerislam21@gmail.com**
 
