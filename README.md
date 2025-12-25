@@ -272,6 +272,15 @@ Last Login to GitHub: **December 25 2025**
 </table>
 -->
 
+<!--
+
+## 🏅 Certificates
+<a href='https://www.hackerrank.com/certificates/21f4d932e858'>
+    <img src='certificate/SE.png' width='279' title='Software Engineer'>
+</a>
+
+-->
+
 ## 📊 Diagram 
 [![IslamMendjel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=islamMendjel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
