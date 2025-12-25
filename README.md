@@ -275,11 +275,23 @@ Last Login to GitHub: **December 25 2025**
 <!--
 
 ## 🏅 Certificates
+<div>
 <a href='https://www.hackerrank.com/certificates/21f4d932e858'>
     <img src='certificate/SE.png' width='279' title='Software Engineer'>
 </a>
+</div>
 
 -->
+
+## 🏅 Certifications
+
+<div align="left">
+  <a href="./forsa.pdf" target="_blank">
+    <img src="./forsa.png" width="350" alt="Forsa Hack Certificate" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.25);">
+  </a>
+  <br />
+  <sub><i>Click image to view official PDF</i></sub>
+</div>
 
 ## 📊 Diagram 
 [![IslamMendjel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=islamMendjel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
