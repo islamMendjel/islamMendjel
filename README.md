@@ -192,6 +192,9 @@ Last Login to GitHub: **December 25 2025**
 
 <h3 align="center">
 <p align="center">
+
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=islamMendjel&data=followers,repositories,stars,commits" /><br/>
+  
   <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islamMendjel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /><br/>
   -->
