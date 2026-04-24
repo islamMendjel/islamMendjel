@@ -53,7 +53,7 @@ Last Login to GitHub: **April 24 2026**
 
 - ⚡ Fun fact: It’s all 0’s and 1’s
 
-<p align="center">
+<p align="left">
   <strong>Connect with me</strong>&nbsp;&nbsp;
   <a href="https://www.facebook.com/mendjel.islam" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
