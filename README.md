@@ -32,7 +32,7 @@
 > [!NOTE]
 > The "Last Login" date below is updated manually by Me every day!
 
-Last Login to GitHub: **January 23 2026**
+Last Login to GitHub: **April 24 2026**
 
 <div align="center">
 
@@ -54,7 +54,7 @@ Last Login to GitHub: **January 23 2026**
 - ⚡ Fun fact: It’s all 0’s and 1’s
 
 <h3 align="left">Connect with me</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.facebook.com/mendjel.islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mendjel.islam" height="30" width="40" /></a>
 <a href="https://www.instagram.com/islam.mendjel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="islam.mendjel" height="30" width="40" /></a>
 <a href="https://www.twitter.com/mendjel.islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mendjel.islam" height="30" width="40" /></a>
@@ -220,7 +220,7 @@ Last Login to GitHub: **January 23 2026**
 ![islamMendjel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=islamMendjel&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=islamMendjel&layout=compact&theme=radical&hide_border=true)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=islamMendjel&theme=radical&hide_border=true)
--->
+
 
 ## 🔝 Top Contributed Repo
 
