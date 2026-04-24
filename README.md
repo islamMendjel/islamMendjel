@@ -53,14 +53,17 @@ Last Login to GitHub: **April 24 2026**
 
 - ⚡ Fun fact: It’s all 0’s and 1’s
 
-<p align="left">
-  <strong>Connect with me</strong>&nbsp;&nbsp;
+<p align="center">
+  <strong>Connect with me</strong><br />
   <a href="https://www.facebook.com/mendjel.islam" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>
   <a href="https://www.instagram.com/islam.mendjel/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
   <a href="https://www.twitter.com/mendjel.islam" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
   <a href="https://www.youtube.com/@H16oka_YT" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
   </a>
