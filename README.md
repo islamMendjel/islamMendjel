@@ -47,7 +47,7 @@ Last Login to GitHub: **May 02 2026**
 
 - 👨‍💻 Literally all of my projects are available here
 
-- 💬 Ask me about **What you want to know**
+- 💬 Ask me about **Embedded Systems, Python, Backend and AI**
 
 - 📫 How to reach me **gamerislam21@gmail.com**
 
