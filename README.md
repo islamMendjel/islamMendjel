@@ -301,9 +301,10 @@ Last Login to GitHub: **November 04 2026**
   <sub><i>Click image to view official PDF</i></sub>
 </div>
 
+<!--
 ## 📊 Diagram 
 [![IslamMendjel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=islamMendjel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+!-->
 
 ## ✍️ Random Dev Quote
 <p align="center">
