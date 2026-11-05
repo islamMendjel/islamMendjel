@@ -205,9 +205,10 @@ Last Login to GitHub: **November 05 2026**
   
   <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islamMendjel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /><br/>
-  -->
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamMendjel&theme=tokyonight&layout=compact&hide=CMake,Jupyter%20Notebook&langs_count=10&exclude_repo=d-commerce-univ" alt="Top Languages" /><br/>
-  <!--
+  -->
+  <!--
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=islamMendjel&theme=tokyonight" alt="Top Languages" /><br/>
   -->
   <img src="https://readme-stats-fabio-vicente.vercel.app/api?username=islamMendjel&count_private=true&show_icons=true&theme=tokyonight" alt="Islam Mendjel's GitHub stats" /><br/>
