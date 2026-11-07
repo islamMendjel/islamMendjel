@@ -333,6 +333,17 @@ Last Login to GitHub: **November 07 2026**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Islam%20Mendjel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islammendjel/)
+[![Email](https://img.shields.io/badge/Email-gamerislam21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamerislam21@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-mendjel.islam-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mendjel.islam)
+[![Instagram](https://img.shields.io/badge/Instagram-islam.mendjel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/islam.mendjel/)
+
+</div>
 <!--
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 -->
