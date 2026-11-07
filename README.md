@@ -1,4 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/> !-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Islam%20Mendjel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Backend%20Engineer%20in%20Progress%20%7C%20Algeria&descAlignY=55&descSize=16" width="100%"/>
+
+</div>
 
 **<h1 align="center">  <img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/> </h1>**
 
