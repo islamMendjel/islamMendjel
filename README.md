@@ -12,13 +12,24 @@
 
 <a><img src="https://raw.githubusercontent.com/idimetrix/BEPb/refs/heads/main/src/header_.png"></a>
 
+<div align="center">
+
+[![Active](https://img.shields.io/badge/Active%20last%2030%20days-Yes-brightgreen?style=flat-square)](https://github.com/islamMendjel)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=islamMendjel&style=flat-square)](https://github.com/islamMendjel)
+[![GitHub Followers](https://img.shields.io/github/followers/islamMendjel?label=Followers&style=flat-square&logo=github&color=0e75b6)](https://github.com/islamMendjel?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islammendjel/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gamerislam21@gmail.com)
+
+</div>
+
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/Active--last--30--days-Yes-brightgreen" alt="islamMendjel"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=islamMendjel" alt="visitors"/>
   <a href="https://github.com/islamMendjel?tab=followers"><img src="https://img.shields.io/github/followers/islamMendjel?label=Followers&style=flat&logo=github&color=0e75b6" alt="GitHub Followers"/></a>
 </p>
 
-<!--
+
       saul goodman gif
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9jYjF2ejV0cTFrNmFBpzPfDvDX8m4i7KdjsoNxzK2E62arcHVxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0EwYGlvQ7STj3wyc/giphy.gif"  />
 
@@ -34,13 +45,14 @@
 
 Last Login to GitHub: **November 07 2026**
 
+<!--
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islammendjel/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamerislam21@gmail.com)
 
 </div>
-
+<!-->
 ---
 
 - 🌱 I’m currently learning **AI**
