@@ -9,8 +9,11 @@
 **<h1 align="center">  <img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/> </h1>**
 
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=My+Name+is+Mohammed+Islam+Mendjel;Computer+Science+Student;Leave+It+To+God">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=My+Name+is+Mohammed+Islam+Mendjel;Computer+Science+Student;Building+things+from+scratch;AI+gateways%2C+streaming+editors%2C+and+more;Leave+It+To+God">
 </p>
+
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A2D2FF&size=22&center=true&vCenter=true&width=600&height=60&lines=Building+things+from+scratch.;Pure+C+to+Next.js+%E2%80%94+full+stack.;AI+gateways%2C+streaming+editors%2C+and+more.;Master's+student+%40+Univ+8+Mai+1945+Guelma.;Algeria+%F0%9F%87%A9%F0%9F%87%BF)](https://github.com/islamMendjel)
 
 <!--
 <h3 align="center">A 21 Years Old Student, Developer, Gamer From Algeria</h3>
