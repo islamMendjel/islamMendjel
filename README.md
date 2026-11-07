@@ -14,7 +14,7 @@
 
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A2D2FF&size=22&center=true&vCenter=true&width=600&height=60&lines=Building+things+from+scratch.;Pure+C+to+Next.js+%E2%80%94+full+stack.;AI+gateways%2C+streaming+editors%2C+and+more.;Master's+student+%40+Univ+8+Mai+1945+Guelma.;Algeria+%F0%9F%87%A9%F0%9F%87%BF)](https://github.com/islamMendjel)
-
+!-->
 <!--
 <h3 align="center">A 21 Years Old Student, Developer, Gamer From Algeria</h3>
 -->
