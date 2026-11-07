@@ -313,7 +313,7 @@ Last Login to GitHub: **November 07 2026**
 </div>
 
 -->
-
+<!--
 ## 🏅 Certifications
 
 <div align="left">
@@ -323,6 +323,12 @@ Last Login to GitHub: **November 07 2026**
   <br />
   <sub><i>Click image to view official PDF</i></sub>
 </div>
+-->
+
+## 🏅 Certifications
+
+[![Forsa Hack Certificate](https://github.com/islamMendjel/islamMendjel/raw/main/forsa.png)](https://github.com/islamMendjel/islamMendjel/blob/main/forsa.pdf)  
+*Click image to view official PDF*
 
 <!--
 ## 📊 Diagram 
