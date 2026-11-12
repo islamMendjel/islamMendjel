@@ -100,8 +100,8 @@ Last Login to GitHub: **November 12 2026**
   <!--img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" height="30" alt="c#" />
   <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" height="30" alt="go" />
   <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-vertical.svg" height="30" alt="ruby" />
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-vertical.svg" height="30" alt="rust" /!-->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="java" />
+  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-vertical.svg" height="30" alt="rust"
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="java" /!-->
   <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" height="30" alt="javascript" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/JSON.png" height="30" alt="json" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/LaTeX.png" height="30" alt="latex" />
